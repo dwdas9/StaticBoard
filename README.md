@@ -29,10 +29,13 @@ StaticBoard includes the drawing tools I use most often:
 - Editable Excalidraw file support
 - Local saving in the browser
 
-It also includes a few changes for working with screenshots:
+It also includes a few changes for working with screenshots and annotation:
 
 - Paste screenshots directly onto the board
-- Add a soft shadow to an image
+- A set of hand-drawn brushes (ink pen, fountain pen, pencil, marker, highlighter, crayon), each colorable using Excalidraw's own color picker
+- A soft, modern drop shadow for images — and the same contextual shadow for rectangles, ellipses, diamonds, and text, with simple on/off + blur/distance/opacity controls
+- A broad, hand-drawn Snagit-style annotation arrow, separate from the regular Excalidraw arrow, for pointing at things in a screenshot
+- A hand-drawn callout/speech-bubble with editable text and a pointer tip you can drag to point in any direction
 - Draw arrows from inside an image to the surrounding canvas
 
 ## What is not included
