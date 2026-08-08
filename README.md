@@ -8,7 +8,13 @@ Running Excalidraw locally is possible, but it still requires some setup. I want
 
 That became StaticBoard.
 
+**[Try it live](https://dwdas9.github.io/staticboard/)** — opens the same `index.html` straight in your browser, nothing to download.
+
 ## Run it
+
+**Try it now:** [dwdas9.github.io/staticboard](https://dwdas9.github.io/staticboard/)
+
+**Or run it fully offline:**
 
 1. Download `index.html`.
 2. Open it in your browser.
